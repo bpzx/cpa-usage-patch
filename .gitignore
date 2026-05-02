@@ -1,0 +1,19 @@
+# Build outputs
+/dist/
+/build/
+/cpa-usage-patch
+/cpa-usage-patch.exe
+/checksums.txt
+
+# Runtime data
+/cpa-usage-patch-records.jsonl
+/.tmp-smoke/
+/.tmp-smoke-static/
+
+# Go
+/.gocache/
+/.gomodcache/
+
+# OS / editor noise
+.DS_Store
+Thumbs.db
